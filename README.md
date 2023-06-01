@@ -15,13 +15,6 @@ que seu custo não fosse alto e ao mesmo tempo, de alta eficiência, para a pint
 Utilizar um aerógrafo afim de conquistar esses objetivos será o cerne do projeto.
 
 
-## PROBLEMAS/DIFICULDADES
-* Disponibilidade dos Dados
-* Qualidade dos Dados
-* Aprender novas Tecnologias
-* Prazo
-
-
 ## BRAINSTORMING
 
 Durante a visita na empresa AERNNOVA, nos foram apresentadas as problemáticas que deveríamos desenvolver,
@@ -54,6 +47,27 @@ O aerógrafo é um equipamento que realiza a pulverização de líquidos por mei
 Para mais detalhes do aerógrafo clique [aqui](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/wiki/Informações-do-Aerógrafo).
 
 O uso do aerógrafo faz com que a pintura seja realizada de forma objetiva, se localizando somente no colar dos pinos cisalhados. Porém, analisou-se que, mesmo tendo controle sobre seu leque de tinta, o aerógrafo produz uma pequena quantia de névoa. Sendo assim, buscando priorizar a saúde dos pintores, o grupo obteve duas soluções para adaptação desse processo. Com o uso de uma máscara de proteção e de um cone no bico do produto.
-Mais informações podem ser encontradas [aqui](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/wiki/EPI-(Equipamento-de-proteção-individual)-para-o-Aerógrafo).
+Mais informações dos podem ser encontradas [aqui](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/wiki/EPI-(Equipamento-de-proteção-individual)-para-o-Aerógrafo).
+
+A fim de validar a proposta, o grupo orçou o aerógrafo e os dispositivos a serem utilizados. E testou o dispositivo na oficina da FATEC.
 
 ##### [VALIDAÇÃO DO AERÓGRAFO](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/wiki/Validação-do-Aerógrafo)
+
+
+## PROBLEMAS/DIFICULDADES
+* Disponibilidade dos Dados
+* Qualidade dos Dados
+* Aprender novas Tecnologias
+* Prazo
+
+
+## TECNOLOGIAS UTILIZADAS
+- Catia V5
+- Excel
+- Word
+- WhatsAPP
+- Github
+
+
+
+Fatec - Prof Jessen Vidal - São José dos Campos - SP
