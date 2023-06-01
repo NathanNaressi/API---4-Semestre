@@ -61,6 +61,10 @@ A fim de validar a proposta, o grupo orçou o aerógrafo e os dispositivos a ser
 
 [Apresentação em vídeo](https://youtu.be/GKP5B5u5Xfs)
 
+## 2ª ENTREGA
+
+[Apresentação em Power Point](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/files/11629651/Projeto.Integrador.API.-.Sprint.2.pdf)
+
 
 ## PROBLEMAS/DIFICULDADES
 * Disponibilidade dos Dados
