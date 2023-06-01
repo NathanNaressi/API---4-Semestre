@@ -37,16 +37,23 @@ com tinta ejetável ("NUGGET")
 Sendo assim, foi necessário uma pesquisa mais afundo para que grupo decidisse com qual projeto seguir.
 
 
-## SOLUÇÃO
+## SOLUÇÕES
 
 Após as pesquisa sobre o Aerógrafo e o dispositivo de espuma com tinta ejetável, foi determinado em decisão unânime do grupo de seguir com o Aerógrafo,
 pois levando em consideração a tinta (Primer) utilizada nos processos de pintura, e a espuma do "NUGGET", seu funcionamento não seria eficiente o suficiente para suprir os objetivos da empresa,
 afinal, deveria ser realizada constantemente a troca do tubo do dispositivo, tendo em vista que o primer tem um tempo de duração próximo à três horas, possibilitando o risco de secar a tinta no tubo. 
 
-### AERÓGRAFO
+Para saber mais sobre o "NUGGET" clique [aqui](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/wiki/Informações-do-"NUGGET").
 
+### SOLUÇÃO ESCOLHIDA
+#### AERÓGRAFO
 O aerógrafo é um equipamento que realiza a pulverização de líquidos por meio de uma fonte de ar comprimido, expelindo a substância através da pressão, em alta velocidade. Basicamente, é um instrumento similar a uma caneta, com um reservatório de tinta acima e ligado a uma mangueira de ar comprimido.
 
 ![image](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/assets/61609188/9a37d91f-34a0-4028-976a-89802437d82c)
 
+Para mais detalhes do aerógrafo clique [aqui](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/wiki/Informações-do-Aerógrafo).
 
+O uso do aerógrafo faz com que a pintura seja realizada de forma objetiva, se localizando somente no colar dos pinos cisalhados. Porém, analisou-se que, mesmo tendo controle sobre seu leque de tinta, o aerógrafo produz uma pequena quantia de névoa. Sendo assim, buscando priorizar a saúde dos pintores, o grupo obteve duas soluções para adaptação desse processo. Com o uso de uma máscara de proteção e de um cone no bico do produto.
+Mais informações podem ser encontradas [aqui](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/wiki/EPI-(Equipamento-de-proteção-individual)-para-o-Aerógrafo).
+
+##### [VALIDAÇÃO DO AERÓGRAFO](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/wiki/Validação-do-Aerógrafo)
