@@ -1,4 +1,4 @@
-# Projeto Integrador 3º Semestre de Manutenção de Aeronaves
+# Projeto Integrador 3º Semestre de Manutenção de Aeronaves - Equipe RivetArt
 
 **Equipe de alunos**
 - Lucas Carneiro Oliveira ( Scrum Master )
