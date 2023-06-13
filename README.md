@@ -93,4 +93,18 @@ A fim de validar a proposta, o grupo orçou o aerógrafo e os dispositivos a ser
 
 Toda documentação do Projeto pode ser encontrada [aqui](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/wiki)
 
+## CONTATOS
+
+apimanut01@gmail.com
+
+https://www.linkedin.com/in/fausto-faria-897075128
+
+https://www.linkedin.com/in/lucas-carneiro-oliveira-853407235
+
+https://www.linkedin.com/in/maria-eduarda-godoi-ferreira-510121205 
+
+https://www.linkedin.com/in/nathan-naressi-b529081b2
+
+https://www.linkedin.com/in/rafael-leandro-57b114200
+
 Fatec - Prof Jessen Vidal - São José dos Campos - SP
