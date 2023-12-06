@@ -10,7 +10,7 @@
 
 ## MOTIVAÇÃO
 
-A motivação para a continuação desse projeto partiu de uma demanda da empresa AERNNOVA, solicitada no 1º de 2023 que era de um dispositivo que fosse fácil de mexer,
+A motivação para a continuação desse projeto partiu de uma demanda da empresa AERNNOVA, solicitada no 1º semestre de 2023 que era de um dispositivo que fosse fácil de mexer,
 que seu custo não fosse alto e ao mesmo tempo, de alta eficiência, para a pintura dos colares dos rebites. E também somado ao fator de que as outras propostas não
 aguçãram o interesse do grupo.
 Utilizar um aerógrafo afim de conquistar esses objetivos será o cerne do projeto.
