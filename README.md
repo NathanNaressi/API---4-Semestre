@@ -67,8 +67,9 @@ Instrui sobre os procedimentos de manutenção preventiva, ajudando os usuários
 Pode ajudar a reduzir devoluções e reclamações relacionadas ao uso inadequado ou à falta de compreensão do produto por parte dos usuários.
 Padroniza as práticas de operação e limpeza, garantindo consistência na utilização do produto por diferentes usuários.
 
+Os manuais podem ser encontradas [aqui](https://github.com/NathanNaressi/API---4-Semestre/wiki/Manual-de-Limpeza-e-Opera%C3%A7%C3%A3o)
 
-
+#### Afim de exmplificar a operação, foi realizado uma simulação em pregos de marcenaria sobre um corpo de prova de madeira que podem ser encontrados [aqui](https://github.com/NathanNaressi/API---4-Semestre/wiki/Teste-pr%C3%A1tico-no-Corpo-de-Prova)
 
 ## 1ª ENTREGA ( 2º semestre 2023)
 
@@ -91,7 +92,7 @@ Padroniza as práticas de operação e limpeza, garantindo consistência na util
 
 
 ## METODOLOGIA/CRONOGRAMA
-![image](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/assets/61609188/3fb4f66a-a710-43de-a49a-64fab1b5ace9)
+![image](https://github.com/NathanNaressi/API---4-Semestre/assets/61609188/3ae9aff9-3cfe-4fbf-979f-0eb0afcd4615)
 
 
 
@@ -113,7 +114,7 @@ Padroniza as práticas de operação e limpeza, garantindo consistência na util
 
 ## DOCUMENTAÇÃO
 
-Toda documentação do Projeto pode ser encontrada [aqui](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/wiki)
+Toda documentação do Projeto pode ser encontrada [aqui](https://github.com/NathanNaressi/API---4-Semestre/wiki)
 
 ## CONTATOS
 
