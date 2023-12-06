@@ -1,4 +1,4 @@
-# Projeto Integrador 3º Semestre de Manutenção de Aeronaves - Equipe RivetArt
+# Projeto Integrador 4º Semestre de Manutenção de Aeronaves - Equipe RivetArt
 
 **Equipe de alunos**
 - Lucas Carneiro Oliveira ( Scrum Master )
@@ -10,8 +10,9 @@
 
 ## MOTIVAÇÃO
 
-A motivação para o desenvolvimento desse projeto partiu de uma demanda da empresa AERNNOVA, que era de um dispositivo que fosse fácil de mexer,
-que seu custo não fosse alto e ao mesmo tempo, de alta eficiência, para a pintura dos colares dos rebites.
+A motivação para a continuação desse projeto partiu de uma demanda da empresa AERNNOVA, solicitada no 1º de 2023 que era de um dispositivo que fosse fácil de mexer,
+que seu custo não fosse alto e ao mesmo tempo, de alta eficiência, para a pintura dos colares dos rebites. E também somado ao fator de que as outras propostas não
+aguçãram o interesse do grupo.
 Utilizar um aerógrafo afim de conquistar esses objetivos será o cerne do projeto.
 
 
@@ -55,17 +56,25 @@ A fim de validar a proposta, o grupo orçou o aerógrafo e os dispositivos a ser
 ##### [VALIDAÇÃO DO AERÓGRAFO](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/wiki/Validação-do-Aerógrafo)
 
 
-## 1ª ENTREGA
+## 1ª ENTREGA ( 1º semestre 2023)
 
 [Apresentação em Power Point](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/files/11627801/Projeto.API-.Sprint.1.pptx)
 
 [Apresentação em vídeo](https://youtu.be/GKP5B5u5Xfs)
 
-## 2ª ENTREGA
+## 2ª ENTREGA ( 1º semestre de 2023)
 
 [Apresentação em Power Point](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/files/11629651/Projeto.Integrador.API.-.Sprint.2.pdf)
 
 [Apresentação em Vídeo](https://www.youtube.com/watch?v=cYPsMjbRCGM)
+
+
+## 1ª ENTREGA ( 2º semestre 2023)
+## 2ª ENTREGA ( 1º semestre de 2023)
+## 3ª ENTREGA ( 1º semestre de 2023)
+## 4ª ENTREGA ( 1º semestre de 2023)
+
+
 
 
 ## METODOLOGIA/CRONOGRAMA
