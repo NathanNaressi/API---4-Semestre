@@ -55,25 +55,38 @@ A fim de validar a proposta, o grupo orçou o aerógrafo e os dispositivos a ser
 
 ##### [VALIDAÇÃO DO AERÓGRAFO](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/wiki/Validação-do-Aerógrafo)
 
+## MANUAL DE OPERAÇÃO E LIMPEZA
+Um manual de operação e limpeza de um produto é uma ferramenta importante para fornecer informações essenciais aos usuários, garantindo o uso adequado e a manutenção correta do item. Aqui estão algumas razões pelas quais é vantajoso criar um manual para o seu produto:
 
-## 1ª ENTREGA ( 1º semestre 2023)
+Fornece instruções claras sobre como operar o produto de maneira segura, reduzindo o risco de acidentes e lesões.
+Orienta os usuários sobre as práticas recomendadas para a operação e a limpeza, contribuindo para a durabilidade e desempenho a longo prazo do produto.
+Pode incluir informações sobre conformidade com regulamentações e padrões específicos, garantindo que o produto atenda aos requisitos legais e de segurança.
+Se aplicável, fornece orientações detalhadas sobre a instalação do produto, garantindo que seja configurado corretamente desde o início.
+Inclui informações sobre solução de problemas, o que pode ajudar os usuários a diagnosticar e resolver problemas simples sem a necessidade de assistência técnica.
+Instrui sobre os procedimentos de manutenção preventiva, ajudando os usuários a cuidar do produto e evitar problemas futuros.
+Pode ajudar a reduzir devoluções e reclamações relacionadas ao uso inadequado ou à falta de compreensão do produto por parte dos usuários.
+Padroniza as práticas de operação e limpeza, garantindo consistência na utilização do produto por diferentes usuários.
 
-[Apresentação em Power Point](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/files/11627801/Projeto.API-.Sprint.1.pptx)
 
-[Apresentação em vídeo](https://youtu.be/GKP5B5u5Xfs)
-
-## 2ª ENTREGA ( 1º semestre de 2023)
-
-[Apresentação em Power Point](https://github.com/NathanNaressi/Projeto-Integrador---Aernnova/files/11629651/Projeto.Integrador.API.-.Sprint.2.pdf)
-
-[Apresentação em Vídeo](https://www.youtube.com/watch?v=cYPsMjbRCGM)
 
 
 ## 1ª ENTREGA ( 2º semestre 2023)
-## 2ª ENTREGA ( 1º semestre de 2023)
-## 3ª ENTREGA ( 1º semestre de 2023)
-## 4ª ENTREGA ( 1º semestre de 2023)
 
+[Apresentação em Power point](https://github.com/NathanNaressi/API---4-Semestre/files/13589183/Sprint.1.-.API.pdf)
+
+
+## 2ª ENTREGA ( 2º semestre de 2023)
+
+[Apresentação em Power point](https://github.com/NathanNaressi/API---4-Semestre/files/13589202/Sprint.2.-.API.-.Pintura.Colares.pdf)
+
+
+## 3ª ENTREGA ( 2º semestre de 2023)
+
+[Apresentação em Power point]
+
+## 4ª ENTREGA ( 2º semestre de 2023)
+
+[Apresentação em Power point](https://github.com/NathanNaressi/API---4-Semestre/files/13589210/_Sprint.4.-.API.-.Pintura.Colares.pdf)
 
 
 
