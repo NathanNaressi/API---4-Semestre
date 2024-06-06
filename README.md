@@ -1,10 +1,9 @@
-# Projeto Integrador 4º Semestre de Manutenção de Aeronaves - Equipe RivetArt
+# Projeto Integrador 5º Semestre de Manutenção de Aeronaves - Equipe RivetArt
 
 **Equipe de alunos**
 - Lucas Carneiro Oliveira ( Scrum Master )
-- Nathan Augusto Bugni Naressi ( Product Owner )
-- Fausto dos Santos Faria ( Equipe de Desenvolvimento )
-- Maria Eduarda Godói Ferreira ( Equipe de Desenvolvimento )
+- Maria Eduarda Godói Ferreira ( Product Owner )
+- Nathan Augusto Bugni Naressi ( Equipe de Desenvolvimento )
 - Rafael Leandro Silva Pinho ( Equipe de Desenvolvimento )
 
 
@@ -71,23 +70,19 @@ Os manuais podem ser encontradas [aqui](https://github.com/NathanNaressi/API---4
 
 #### Afim de exmplificar a operação, foi realizado uma simulação em pregos de marcenaria sobre um corpo de prova de madeira que podem ser encontrados [aqui](https://github.com/NathanNaressi/API---4-Semestre/wiki/Teste-pr%C3%A1tico-no-Corpo-de-Prova)
 
-## 1ª ENTREGA ( 2º semestre 2023)
+## 1ª ENTREGA ( 1º semestre 2024)
 
-[Apresentação em Power point](https://github.com/NathanNaressi/API---4-Semestre/files/13589183/Sprint.1.-.API.pdf)
-
-
-## 2ª ENTREGA ( 2º semestre de 2023)
-
-[Apresentação em Power point](https://github.com/NathanNaressi/API---4-Semestre/files/13589202/Sprint.2.-.API.-.Pintura.Colares.pdf)
+[Apresentação em vídeo](https://youtu.be/RZeux91hhno)
 
 
-## 3ª ENTREGA ( 2º semestre de 2023)
+## 2ª ENTREGA ( 1º semestre de 2024)
 
-[Apresentação em Power point]
+[Apresentação em vídeo](https://youtu.be/aMXburOH9Mo)
 
-## 4ª ENTREGA ( 2º semestre de 2023)
 
-[Apresentação em Power point](https://github.com/NathanNaressi/API---4-Semestre/files/13589210/_Sprint.4.-.API.-.Pintura.Colares.pdf)
+## 3ª ENTREGA ( 1º semestre de 2024)
+
+[Apresentação em Power point](https://github.com/user-attachments/files/15597867/Sprint.3.2024.pdf)
 
 
 
