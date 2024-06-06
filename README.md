@@ -87,7 +87,7 @@ Os manuais podem ser encontradas [aqui](https://github.com/NathanNaressi/API---4
 
 
 ## METODOLOGIA/CRONOGRAMA
-![image](https://github.com/NathanNaressi/API---4-Semestre/assets/61609188/3ae9aff9-3cfe-4fbf-979f-0eb0afcd4615)
+![image](https://github.com/NathanNaressi/API---4-Semestre/assets/61609188/df987526-d451-48d8-aef9-d256b1ed24cf)
 
 
 
